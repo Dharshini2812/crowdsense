@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6649fa38.css",
-    "main.js": "/static/js/main.654c0409.js",
-    "index.html": "/index.html",
-    "main.6649fa38.css.map": "/static/css/main.6649fa38.css.map",
-    "main.654c0409.js.map": "/static/js/main.654c0409.js.map"
+    "main.css": "/crowdsense/static/css/main.6649fa38.css",
+    "main.js": "/crowdsense/static/js/main.654c0409.js",
+    "index.html": "/crowdsense/index.html",
+    "main.6649fa38.css.map": "/crowdsense/static/css/main.6649fa38.css.map",
+    "main.654c0409.js.map": "/crowdsense/static/js/main.654c0409.js.map"
   },
   "entrypoints": [
     "static/css/main.6649fa38.css",
